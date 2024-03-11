@@ -1,2 +1,2 @@
 # codingTest
-for coding practice
+for coding practice from programmers
