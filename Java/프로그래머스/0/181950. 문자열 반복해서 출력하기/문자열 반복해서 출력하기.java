@@ -7,7 +7,7 @@ public class Solution {
         int n = sc.nextInt();
         
         String result = "";
-        for(int i = 0; i <= n - 1; i++){
+        for(int i = 1; i <= n; i++){
             result += str;
         }
         System.out.println(result);
